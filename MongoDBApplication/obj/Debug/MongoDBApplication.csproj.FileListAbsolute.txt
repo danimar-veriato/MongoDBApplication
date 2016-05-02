@@ -1,0 +1,13 @@
+c:\users\danimar\documents\visual studio 2015\Projects\MongoDBApplication\MongoDBApplication\bin\Debug\MongoDBApplication.exe.config
+c:\users\danimar\documents\visual studio 2015\Projects\MongoDBApplication\MongoDBApplication\bin\Debug\MongoDBApplication.exe
+c:\users\danimar\documents\visual studio 2015\Projects\MongoDBApplication\MongoDBApplication\bin\Debug\MongoDBApplication.pdb
+c:\users\danimar\documents\visual studio 2015\Projects\MongoDBApplication\MongoDBApplication\bin\Debug\MongoDB.Bson.dll
+c:\users\danimar\documents\visual studio 2015\Projects\MongoDBApplication\MongoDBApplication\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\danimar\documents\visual studio 2015\Projects\MongoDBApplication\MongoDBApplication\bin\Debug\MongoDB.Driver.dll
+c:\users\danimar\documents\visual studio 2015\Projects\MongoDBApplication\MongoDBApplication\bin\Debug\MongoDB.Bson.xml
+c:\users\danimar\documents\visual studio 2015\Projects\MongoDBApplication\MongoDBApplication\bin\Debug\MongoDB.Driver.xml
+c:\users\danimar\documents\visual studio 2015\Projects\MongoDBApplication\MongoDBApplication\obj\Debug\MongoDBApplication.Form1.resources
+c:\users\danimar\documents\visual studio 2015\Projects\MongoDBApplication\MongoDBApplication\obj\Debug\MongoDBApplication.Properties.Resources.resources
+c:\users\danimar\documents\visual studio 2015\Projects\MongoDBApplication\MongoDBApplication\obj\Debug\MongoDBApplication.csproj.GenerateResource.Cache
+c:\users\danimar\documents\visual studio 2015\Projects\MongoDBApplication\MongoDBApplication\obj\Debug\MongoDBApplication.exe
+c:\users\danimar\documents\visual studio 2015\Projects\MongoDBApplication\MongoDBApplication\obj\Debug\MongoDBApplication.pdb
