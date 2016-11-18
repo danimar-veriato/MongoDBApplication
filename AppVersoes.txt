@@ -1,0 +1,24 @@
+VERSÃO DATA           PESSOA                CHAMADO  DESCRIÇÃO
+1.0          15/12/2014  Adriano Tomczak                       -Criação da primeira versão contemplando as etiquetas da 710 que eram geradas pelo CSDF29000.
+2.0          19/12/2014  Adriano Tomczak                       -Adição da etiqueta de recebimento (geradas antes pelo RECF10000N).
+3.0          12/01/2015  Adriano Tomczak                       -Adição da etiqueta de expedição (geradas antes pelo VENF36000).
+4.0          19/01/2015  Adriano Tomczak                       -Adição da etiqueta da metalurgia-730 (geradas antes pelo CSDF0017).
+5.0          06/03/2015  Adriano Tomczak                       -Alterações na etiqueta do recebimento: Adição das colunas Seq Item NF, Qtde Atendida na OC e Seq Item na OC, liberado para edição a coluna Descrição do item. 
+6.0          18/03/2015  Adriano Tomczak                       -Alterações na etiqueta da irrigação: Aumentado a fonte da descrição do item e feito tratamento para a descrição quebrar a linha quando necessário, colocado campo OBS na etiqueta de item avulso.
+7.0          26/03/2015  Adriano Tomczak                       -Alterações na etiqueta da Metalurgia: Inclusão da aba Volumes Romaneio para impressão da etiqueta de volumes do romaneio. Etiqueta Irrigação: Aba Item, foi retirado o botão "Consultar", a pesquisa é disparada atuomaticamente ao digitar o código do item.
+8.0          02/04/2015  Adriano Tomczak                       -Alterado o arquivo de configurações para conectar no novo banco 11G.
+9.0          04/05/2015  Adriano Tomczak                       -Adição da etiqueta de Estoque (volumes), geradas antes pelo ESTF20000/ESTR20000.
+10.0        04/05/2015  Adriano Tomczak      #7954        -Criação de Tab para concentrar etiquetas do estoque, onde foi colocada a etiqueta de Estoque (volumes) que já existia e adicionado filtro p/ mostrar/ocultar vol. expedidos, criada opção para impressão de nova etiqueta  do material que compõe o item de uma OS.
+11.0         21/07/2015 Adriano Tomczak      #8204        -Criação de nova etiqueta para identificação de itens do PCP da Fab. II, adição do cód. do item na etiqueta prod. aprovado Metalurgia, criação de alerta de validação na etiqueta do recebimento p/ avisar quando a quantidade impressa for diferente da quantidade atendida na OC e adição do local de estoque do item.
+12.0         23/07/2015 Adriano Tomczak      #8204        -Adição do nº da OS na etiqueta do recebimento.
+13.0         27/07/2015 Adriano Tomczak      #8267        -Adição do local de estoque e mudança na ordenação dos itens na etiqueta da composição da OS. 
+14.0         18/08/2015 Adriano Tomczak                       -Adição da RQ da qualidade nas etiquetas do recebimento e PCP e deslocado o código de barras p/ direita na etiqueta de volumes GNF (p/ permitir leitura em razão da falha da impressora da instaladora).
+15.0         26/08/2015 Adriano Tomczak                       -Correção do erro de validação da quantidade na etiqueta do recebimento (estava validando todas as linhas ado grid ao invés das linha selecionadas no grid)
+16.0         02/09/2015 Adriano Tomczak                       -Correção de erro na quantidade de volumes da etiqueta do PCP(quando era informado 1 vol dava erro na div 88).
+17.0         09/09/2015 Adriano Tomczak                       -Correção da RQ nas etiquetas do PCP e recebimento (estavam invertidas as RQs) e criação da nova etiqueta do PCP da Eletrônica.
+17.1	    29/01/2016 Danimar Veriato 			      - Inclusão do campo "Localização" nas etiquetas da galvanização para referenciar a localização física da peça no pátio da fábrica.
+18.0 	    12/02/2016 Danimar Veriato 			      - Adição da etiqueta da metalurgia (710) do Grau de Proteção DNV.
+18.0.1       20.02.2016  				      - Alteração da consulta da Et. da Exedição. Foi incluso o campo "SEQ. INTERNA NF" para ser um complemento quando há mais de uma nota com o mesmo número e divisão.
+18.2 - 	     20/05/2016 		#10646 (Polímeros)     - Adição das etiquetas SIEMENS (metalurgia - 730) e SISBOV - Polímeros (PCP - 337)
+18.3 - 	     06/07/2016                 #11026 		       - Adição da etiqueta de pedido da eletrônica (PCP - Div. 88)
+18.4 -       31/10/2016			#11926   	       - Adição da etiqueta do recebimento FII. Alteração RQ qualidade. Etiqueta FII -  RQ-107. Etiqueta FIII - RQ-63  Rev.01.
