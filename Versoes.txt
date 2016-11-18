@@ -1,0 +1,6 @@
+VERSÃO DATA           PESSOA                CHAMADO  DESCRIÇÃO
+1.0          15/12/2014  Adriano Tomczak                       -Criação da primeira versão contemplando as etiquetas da 710 que eram geradas pelo CSDF29000.
+2.0          19/12/2014  Adriano Tomczak                       -Adição da etiqueta de recebimento (geradas antes pelo RECF10000N).
+3.0          12/01/2015  Adriano Tomczak                       -Adição da etiqueta de expedição (geradas antes pelo VENF36000).
+4.0          19/01/2015  Adriano Tomczak                       -Adição da etiqueta da metalurgia-730 (geradas antes pelo CSDF0017).
+5.0          06/03/2015  Adriano Tomczak                       -Alterações na etiqueta do recebimento: Adição das colunas Seq Item NF, Qtde Atendida na OC e Seq Item na OC, liberado para edição a coluna Descrição do item. 
